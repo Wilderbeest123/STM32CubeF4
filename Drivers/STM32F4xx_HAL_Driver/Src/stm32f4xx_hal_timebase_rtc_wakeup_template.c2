@@ -79,6 +79,8 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/
+#include "stm32f4xx_hal_rtc.h"
+
 RTC_HandleTypeDef        hRTC_Handle;
 
 /* Private function prototypes -----------------------------------------------*/
